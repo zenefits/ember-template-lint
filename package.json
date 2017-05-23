@@ -1,6 +1,6 @@
 {
   "name": "ember-template-lint",
-  "version": "0.6.4",
+  "version": "0.6.4-zenefits.0",
   "description": "Lint your templates.",
   "scripts": {
     "test": "mocha",
